@@ -22,9 +22,22 @@
 
 7. Basic tags, Styling, Debugging
 
-- Tags? Type of tags
+- Tags? Type of tags [pair-tangs, container-tags, empty-tag]
 - attribute
 - element, content
 - Debugging
+- comment
 
-8. Basic tags, Styling, Debugging
+8. Headings, paragraphs, line breaks, horizental line
+
+9. Semantic HTML vs Non-Semantic HTML
+
+- semantic tag:- header, footer, main, form, table
+- non-semantic tag:- div, span
+
+10. Text formatting tags
+11. List
+12. Link
+13. Table
+14. Form
+15. Deploy
